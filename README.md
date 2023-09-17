@@ -1,6 +1,7 @@
 # Personal homepage
 Welcome to the repository of my personal homepage. This webpage serves as a portfolio to showcase my projects, skills, and experiences.
-![image]()
+![image](https://github.com/Unknownfanzh/Personal_homepage/blob/main/img/Screenshotofwebpage.jpg)
+
 ## Features
 - **About Me**: A section describing who I am and what I do.
 - **Skills**: A showcase of my technical skills and proficiencies.
@@ -8,6 +9,7 @@ Welcome to the repository of my personal homepage. This webpage serves as a port
 - **Projects**: A portfolio section where I showcase my projects.
 - **Contact**: A section with my contact details and links to my social media and GitHub profile.
 - **Dynamic Typing Effect**: A JavaScript feature that creates a dynamic typing effect on the homepage.
+
 ## Technologies Used
 - HTML: Used for creating the structure of the webpage.
 - CSS: Used for styling the webpage.
@@ -21,7 +23,8 @@ Welcome to the repository of my personal homepage. This webpage serves as a port
 git clone https://github.com/Unknownfanzh/Personal_homepage.git
 ```
 2. Open the `index.html` file in your web browser to view the webpage.
-### 1. Second way:
+
+### 2. Second way:
 Ensure you have the following installed on your local machine:
 - Node.js & npm
 - http-server (Optional) - A simple, zero-configuration command-line HTTP server.
