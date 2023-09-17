@@ -9,6 +9,7 @@ Welcome to the repository of my personal homepage. This webpage serves as a port
 - **Projects**: A portfolio section where I showcase my projects.
 - **Contact**: A section with my contact details and links to my social media and GitHub profile.
 - **Dynamic Typing Effect**: A JavaScript feature that creates a dynamic typing effect on the homepage.
+- **A second page for projects details**: A second page showing the details of each projects.
 
 ## Technologies Used
 - HTML: Used for creating the structure of the webpage.
