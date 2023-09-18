@@ -1,6 +1,6 @@
 # Personal homepage
 Welcome to the repository of my personal homepage. This webpage serves as a portfolio to showcase my projects, skills, and experiences.
-![image](https://github.com/Unknownfanzh/Personal_homepage/blob/main/img/Screenshotofwebpage.jpg)
+![image](https://github.com/Unknownfanzh/Personal_homepage/blob/main/img/Screenshotofwebpage.gif?raw=true)
 - Author: Fan Zhou
 - Design Doc: https://drive.google.com/file/d/1L8hPrVne28kZDeQM5Y66AwBMQ-pRdzhF/view
 - Wireframe: https://www.figma.com/file/ccgp858p5pm126LrzOEhnB/Fan's-Personal-Homepage-wireframes
