@@ -15,6 +15,12 @@ Welcome to the repository of my personal homepage. This webpage serves as a port
 - **Dynamic Typing Effect**: A JavaScript feature that creates a dynamic typing effect on the homepage.
 - **A second page for projects details**: A second page showing the details of each projects.
 
+## Release 1.0.0
+### What's New
+- Initial release with core features including portfolio showcase.
+- Responsive design ensuring compatibility across various devices.
+- Seamless navigation offering users an intuitive browsing experience.
+
 ## Technologies Used
 - HTML: Used for creating the structure of the webpage.
 - CSS: Used for styling the webpage.
