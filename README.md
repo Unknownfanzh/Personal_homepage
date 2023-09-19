@@ -6,7 +6,7 @@ Welcome to the repository of my personal homepage. This webpage serves as a port
 - Prensentation slides: https://docs.google.com/presentation/d/1JosgT5v6bfEl9LdVPxIA5xJApLte81ieJWZ9ONm0WoY/
 - Video walkthrough: https://youtu.be/Q4WjYz0qyoY
 - Wireframe: https://www.figma.com/file/ccgp858p5pm126LrzOEhnB/Fan's-Personal-Homepage-wireframes
-
+- A project from course CS5610: https://johnguerra.co/classes/webDevelopment_fall_2023/
 
 ## Features
 - **About Me**: A section describing who I am and what I do.
