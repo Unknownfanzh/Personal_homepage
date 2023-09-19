@@ -8,6 +8,8 @@
   },
   "keywords": [],
   "author": "Fan Zhou",
-  "license": "MIT"
-  
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.49.0"
+  }
 }
