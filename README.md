@@ -3,6 +3,8 @@ Welcome to the repository of my personal homepage. This webpage serves as a port
 ![image](https://github.com/Unknownfanzh/Personal_homepage/blob/main/images/Screenshotofwebpage.gif?raw=true)
 - Author: Fan Zhou
 - Design Doc: https://drive.google.com/file/d/1L8hPrVne28kZDeQM5Y66AwBMQ-pRdzhF/view
+- Prensentation slides: https://docs.google.com/presentation/d/1JosgT5v6bfEl9LdVPxIA5xJApLte81ieJWZ9ONm0WoY/
+- Video walkthrough: https://youtu.be/Q4WjYz0qyoY
 - Wireframe: https://www.figma.com/file/ccgp858p5pm126LrzOEhnB/Fan's-Personal-Homepage-wireframes
 
 
